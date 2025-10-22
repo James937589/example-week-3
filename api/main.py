@@ -24,7 +24,7 @@ app.add_middleware(
 
 
 data= [
-    {"name": "alice","age": 30, "city": "New york"},
+    {"name": "alice","age": 30, "city": "New york"}
  
 ]
 
