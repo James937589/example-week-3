@@ -48,7 +48,4 @@ def get_list():
     return {"message": "Greetings! Brought to you by The Back-End Example Endpoint!"}
 
 
-# TO RUN:
-# 1. Put this code in api/main.py and deploy to Vercel
-# 2. Test by using your-vercel-backend-url/docs
-# 3. Later call from front-end using JavaScript fetch()
+
