@@ -1,10 +1,4 @@
 from fastapi import FastAPI
-
-# CORS (Cross-Origin Resource Sharing)
-# allows us to restrict/enable which
-# client urls are allowed to call 
-# this backend code. 
-# CORS is part of the FastAPI library.
 from fastapi.middleware.cors import CORSMiddleware
 
 # Initialize the FastAPI application
