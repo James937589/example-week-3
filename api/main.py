@@ -45,6 +45,6 @@ def get_list():
     """
     This endpoint returns a list of JSON objects.
     """
-    return endpoint
+    return data
 
 
