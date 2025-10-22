@@ -30,10 +30,6 @@ data= [
 ]
 
 
-
-
-
-
 @app.get("/")           #endpoint, or route, always starts with a forward slash
 def default_route():    #route handler function
     """
