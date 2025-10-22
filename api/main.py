@@ -45,7 +45,6 @@ def get_list():
     """
     This endpoint returns a list of JSON objects.
     """
-    return {"message": "Greetings! Brought to you by The Back-End Example Endpoint!"}
-
+    return endpoint
 
 
